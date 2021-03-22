@@ -20,3 +20,5 @@ set noswapfile
 set hlsearch 
 set ignorecase 
 set incsearch
+set laststatus=2
+set statusline+=%F
