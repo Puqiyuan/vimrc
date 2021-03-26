@@ -22,3 +22,4 @@ set ignorecase
 set incsearch
 set laststatus=2
 set statusline+=%F
+set tags=./tags,tags;$HOME
