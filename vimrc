@@ -1,15 +1,16 @@
 inoremap jk <ESC>
-inoremap <C-b> <Left>
 inoremap <C-f> <Right>
+nnoremap <C-f> <Right>
 inoremap <C-n> <Down>
+nnoremap <C-n> <Down>
 inoremap <C-p> <Up>
+nnoremap <C-p> <Up>
 inoremap <C-b> <Left>
-inoremap <C-f> <Right>
-inoremap <C-n> <Down>
-inoremap <C-p> <Up>
-nnoremap <C-v> <C-d>
+nnoremap <C-b> <Left>
+nnoremap <C-v> <PageDown>
 inoremap <C-v> <PageDown>
 nnoremap <M-v> <PageUp>
+inoremap <M-v> <PageUp>
 
 set nu
 colors zenburn
