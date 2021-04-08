@@ -11,6 +11,8 @@ nnoremap <C-v> <PageDown>
 inoremap <C-v> <PageDown>
 nnoremap <M-v> <PageUp>
 inoremap <M-v> <PageUp>
+inoremap <C-A> <Home>
+inoremap <C-E> <End>
 
 set nu
 colors zenburn
